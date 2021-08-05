@@ -693,16 +693,6 @@ class Solution:
 
         return res
 
-#x = Solution.combinationSum(Solution,[2,3,6,7],7)
-#z = Solution.setZeroes(Solution,matrix=[[1,1,1],[1,0,1],[1,1,1]])
-#x = Solution.beautifulArray(Solution,5)
-#x = Solution.spiralOrder(Solution,matrix=[[1,2,3,4],[5,6,7,8],[9,10,11,12]])
-#x = Solution.spiralMatrixIII(Solution,5,6,1,4)
-#x = Solution.updateMatrix(Solution,mat=[[1,1,1,0,0,0,1,1,0,1],[1,0,0,1,0,0,0,0,1,1],[1,1,1,1,1,1,1,1,1,1],[1,1,1,1,1,1,1,1,1,1],[1,1,1,1,1,1,1,1,1,1],[1,1,1,1,1,1,1,1,1,1],[1,1,1,1,1,1,1,1,1,1],[1,1,1,1,1,1,1,1,1,1],[1,1,1,1,1,1,1,1,1,1],[1,1,1,1,1,1,1,1,1,1]])
-#x = Solution.insert(Solution,intervals=[[1,2],[3,6],[8,10],[13,15],[19,26]],newInterval=[4,5])
-#z = Solution.insert(Solution,intervals=[],newInterval=[4,5])
-#x = Solution.subsets(Solution,nums=[2,3,4,5])
-#x = Solution.permuteUnique(Solution,nums=[-1,2,-1,1,2,-1,1,2])
 tree = TreeNode(1)
 tree.left = TreeNode(2)
 tree.right = TreeNode(3)
